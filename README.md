@@ -10,7 +10,7 @@ This project was developed during my bachelor degree in Caen, France.
 <br/>
 Mastermind is a classic two-player code-breaking board game. One player, the codemaker, creates a secret code of colored pegs, while the other player, the codebreaker, tries to guess the code within a limited number of turns. The codemaker provides feedback after each guess, indicating the number of correct colors in the correct positions and the number of correct colors in the wrong positions. The objective is for the codebreaker to deduce the secret code through logical deduction and deduction.
 <br/>
-You can download the Shell file and try it <a href="https://github.com/anthonyliot/masterming/releases/tag/v1.0">here</a>
+You can download the Shell file and try it <a href="https://github.com/anthonyliot/mastermind/releases/tag/v1.0">here</a>
 
 <h2>Installation</h2>
 
